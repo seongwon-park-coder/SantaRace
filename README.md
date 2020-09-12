@@ -5,7 +5,7 @@ There is a timer goes on as the game starts.
 If you success with make the character go out from screen before the time limits, you win!
 You can re-do the game after it finishes. (The game result does matter) </H3>
 
-Game will be played in snowing village. This is scene you will see as you start the game 
+Game will be played in snowing village. This is the scene you will see as you start the game 
 ![initial](https://user-images.githubusercontent.com/71178153/92996595-c08a6580-f547-11ea-9c89-b48aec6b3715.PNG)
 
 While playing the game the timer will start and you have to click the arrow sign below.
